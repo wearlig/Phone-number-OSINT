@@ -2,8 +2,7 @@
 
 A collection of working tools for searching for information by phone number in any country (2025).
 
-Our Discord channel (searches by name, email, address, social media accounts, etc.) - https://discord.gg/zDNW39HKva
-Our Telegram channel - OSINT, camera hacking manuals, bots for searching with free queries - you'll find it all here https://t.me/wpftg
+Our Discord channel (searches by name, email, address, social media accounts, etc.) - https://discord.gg/NqTnM3sYZE
 
 ## Main Services and Bots
 
